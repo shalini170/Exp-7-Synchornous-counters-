@@ -83,6 +83,9 @@ RegisterNumber:23001992
 ![Screenshot 2024-01-03 032028](https://github.com/shalini170/Exp-7-Synchornous-counters-/assets/151901983/a1dc136b-06ad-4ed1-880f-1725b7c8cec5)
 
 ##RESULT
+
+
+
 By this way we have verified the truth table of 4-bit upcounter using verilog
 
 
@@ -91,6 +94,3 @@ By this way we have verified the truth table of 4-bit upcounter using verilog
 
 
 
-
-
-### RESULTS 
